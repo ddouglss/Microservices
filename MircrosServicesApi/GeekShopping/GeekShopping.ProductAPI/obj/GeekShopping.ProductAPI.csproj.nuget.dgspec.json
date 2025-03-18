@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files\\Microservices\\microservices_dotnet\\microservices_dotnet\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
+    "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
   },
   "projects": {
-    "D:\\Program Files\\Microservices\\microservices_dotnet\\microservices_dotnet\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
+    "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\Microservices\\microservices_dotnet\\microservices_dotnet\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectUniqueName": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "projectName": "GeekShopping.ProductAPI",
-        "projectPath": "D:\\Program Files\\Microservices\\microservices_dotnet\\microservices_dotnet\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectPath": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "packagesPath": "C:\\Users\\ddoug\\.nuget\\packages\\",
-        "outputPath": "D:\\Program Files\\Microservices\\microservices_dotnet\\microservices_dotnet\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
+        "outputPath": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

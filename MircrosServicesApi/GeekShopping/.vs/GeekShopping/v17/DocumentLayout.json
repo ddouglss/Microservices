@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Program Files\\Microservices\\microservices_dotnet\\microservices_dotnet\\MircrosServicesApi\\GeekShopping\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microservices\\mircrosservicesapi\\geekshopping\\geekshopping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microservices\\mircrosservicesapi\\geekshopping\\geekshopping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\utils\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microservices\\mircrosservicesapi\\geekshopping\\geekshopping.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ED919F-9507-4B7B-8223-7E76D4A9D4B3}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|d:\\program files\\microservices.net\\microservices\\mircrosservicesapi\\geekshopping\\geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ED919F-9507-4B7B-8223-7E76D4A9D4B3}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microservices\\mircrosservicesapi\\geekshopping\\geekshopping.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microservices\\mircrosservicesapi\\geekshopping\\geekshopping.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\Services\\ProductService.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:22:50.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Services\\IServices\\IProductService.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Services\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:06:27.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:06:15.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpClientExtensions.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Utils\\HttpClientExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:52:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\Models\\ProductModel.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:26:21.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\appsettings.json",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\appsettings.json",
+              "RelativeToolTip": "GeekShopping.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T03:22:45.212Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"

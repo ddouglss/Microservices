@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Files\\Microservices\\microservices_dotnet\\microservices_dotnet\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectUniqueName": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "projectName": "GeekShopping.Web",
-      "projectPath": "D:\\Program Files\\Microservices\\microservices_dotnet\\microservices_dotnet\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectPath": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "packagesPath": "C:\\Users\\ddoug\\.nuget\\packages\\",
-      "outputPath": "D:\\Program Files\\Microservices\\microservices_dotnet\\microservices_dotnet\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\obj\\",
+      "outputPath": "D:\\Program Files\\Microservices.NET\\Microservices\\MircrosServicesApi\\GeekShopping\\GeekShopping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
